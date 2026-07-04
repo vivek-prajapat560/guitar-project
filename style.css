@@ -39,6 +39,9 @@ button{
   cursor: pointer;
   margin-top: 20px;
 }
+p{
+  text-transform: uppercase;
+}
 .container{
   display: flex;
   gap: 20px;
