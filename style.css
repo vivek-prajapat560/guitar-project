@@ -73,7 +73,7 @@ p{
   text-align: center;
   font-size: 20px;
   font-weight: 100;
-  background-image: url("sun-girl.jpg");
+  background-image: url("Prabu-ram.jpg");
   background-size: cover;
 }
 .Box3{
@@ -102,7 +102,7 @@ p{
   font-size: 20px;
   font-weight: 100;
   background-image: url("dog.jpg.jpg");
-  background-size: contain;
+  background-size: cover;
 }
 
 .Box5{
@@ -117,7 +117,7 @@ p{
   font-size: 20px;
   font-weight: 100;
   background-image: url("Red-Fort.jpg");
-  background-size: contain;
+  background-size: cover;
 }
 
 .Box6{
