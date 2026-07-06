@@ -14,3 +14,45 @@ button{
 h2{
   margin-top: 30px;
 }
+body{
+    background:#0f172a;
+    color:white;
+    font-family:Arial, sans-serif;
+    text-align:center;
+}
+
+.score-board{
+    display:flex;
+    justify-content:center;
+    gap:60px;
+    margin:30px 0;
+}
+
+.score-board div{
+    background:#1e293b;
+    padding:20px;
+    border-radius:15px;
+    width:120px;
+    box-shadow:0 0 15px cyan;
+}
+
+.score-board p{
+    font-size:35px;
+    font-weight:bold;
+}
+
+button{
+    padding:15px 25px;
+    font-size:18px;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+    margin:10px;
+    transition:.3s;
+}
+
+button:hover{
+    transform:scale(1.1);
+    background:#00bfff;
+    color:white;
+}
